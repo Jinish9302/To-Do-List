@@ -1,1 +1,2 @@
-link to url : https://todo-list-by-jinish.netlify.app/
+link to website : https://todo-list-by-jinish.netlify.app/
+will update README.md soon
